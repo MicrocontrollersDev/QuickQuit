@@ -23,4 +23,4 @@ plugins {
 }
 
 
-rootProject.name = "quickquit"
+rootProject.name = "QuickQuit"
